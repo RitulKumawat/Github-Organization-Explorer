@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/github-orgs-explorer/static/css/main.c2cab247.css",
+    "main.js": "/github-orgs-explorer/static/js/main.5be4150f.js",
+    "index.html": "/github-orgs-explorer/index.html",
+    "main.c2cab247.css.map": "/github-orgs-explorer/static/css/main.c2cab247.css.map",
+    "main.5be4150f.js.map": "/github-orgs-explorer/static/js/main.5be4150f.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.c2cab247.css",
+    "static/js/main.5be4150f.js"
+  ]
+}
